@@ -1,0 +1,17 @@
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\bin\Debug\net6.0-windows\KPIVisualizador.exe
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\bin\Debug\net6.0-windows\KPIVisualizador.deps.json
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\bin\Debug\net6.0-windows\KPIVisualizador.runtimeconfig.json
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\bin\Debug\net6.0-windows\KPIVisualizador.dll
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\bin\Debug\net6.0-windows\KPIVisualizador.pdb
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\KPIVisualizador.csproj.AssemblyReference.cache
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\KPIVisualizador.Form1.resources
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\KPIVisualizador.csproj.GenerateResource.cache
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\KPIVisualizador.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\KPIVisualizador.AssemblyInfoInputs.cache
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\KPIVisualizador.AssemblyInfo.cs
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\KPIVisualizador.csproj.CoreCompileInputs.cache
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\KPIVisualizador.dll
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\refint\KPIVisualizador.dll
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\KPIVisualizador.pdb
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\KPIVisualizador.genruntimeconfig.cache
+D:\ProyectoSQL\Proyecto1\Solution1\KPIVisualizador\obj\Debug\net6.0-windows\ref\KPIVisualizador.dll

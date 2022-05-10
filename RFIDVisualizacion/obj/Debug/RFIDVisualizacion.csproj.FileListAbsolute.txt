@@ -1,0 +1,11 @@
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\obj\Debug\RFIDVisualizacion.csproj.AssemblyReference.cache
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\obj\Debug\RFIDVisualizacion.csproj.SuggestedBindingRedirects.cache
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\obj\Debug\RFIDVisualizacion.Form1.resources
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\obj\Debug\RFIDVisualizacion.Properties.Resources.resources
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\obj\Debug\RFIDVisualizacion.csproj.GenerateResource.cache
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\obj\Debug\RFIDVisualizacion.csproj.CoreCompileInputs.cache
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\bin\Debug\RFIDVisualizacion.exe.config
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\bin\Debug\RFIDVisualizacion.exe
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\bin\Debug\RFIDVisualizacion.pdb
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\obj\Debug\RFIDVisualizacion.exe
+D:\ProyectoSQL\Proyecto1\Solution1\RFIDVisualizacion\obj\Debug\RFIDVisualizacion.pdb
